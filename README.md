@@ -1,2 +1,2 @@
-# cloudimg
+# CloudImg
 upload image
